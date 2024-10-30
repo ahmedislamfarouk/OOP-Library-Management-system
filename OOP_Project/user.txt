@@ -1,0 +1,86 @@
+--------------------
+Username: ds
+Password: da
+UserType: Student
+ID: SD-8512
+----------------------------------------
+Username: aa
+Password: aa
+UserType: Student
+ID: SD-8170
+----------------------------------------
+Username: aas
+Password: aa
+UserType: Student
+ID: SD-5186
+----------------------------------------
+Username: ggrtg
+Password: rgrgrg
+UserType: student
+ID: SD-6209
+----------------------------------------
+Username: adssd
+Password: asdasdasd
+UserType: student
+ID: SD-2258
+----------------------------------------
+Username: ssss
+Password: ssss
+UserType: student
+ID: SD-8066
+----------------------------------------
+Username: aif
+Password: aif
+UserType: student
+ID: SD-4952
+----------------------------------------
+Username: ahmeddd
+Password: dsdasda
+UserType: student
+ID: SD-7235
+----------------------------------------
+Username: AAA
+Password: AA
+UserType: STUDENT
+ID: SD-1228
+----------------------------------------
+Username: ahmedeadaed
+Password: asdasdew
+UserType: student
+ID: SD-9274
+----------------------------------------
+Username: fdrgwgew
+Password: fewfewew
+UserType: student
+ID: SD-2158
+----------------------------------------
+Username: dfwe
+Password: wgv
+UserType: student
+ID: SD-3501
+----------------------------------------
+Username: dvgrew
+Password: wcv
+UserType: student
+ID: SD-5865
+----------------------------------------
+Username: this username is not found
+Password: adsasdasdasd
+UserType: Student
+ID: SD-1935
+----------------------------------------
+Username: MainTest
+Password: M
+UserType: student
+ID: SD-4742
+----------------------------------------
+Username: asas
+Password: 1234
+UserType: student
+ID: SD-8892
+----------------------------------------
+Username: AhmedIslam Farouk
+Password: 12122431
+UserType: Student
+ID: SD-8132
+--------------------

@@ -1,0 +1,89 @@
+
+------------------
+Title: W
+AuthorName: W
+ISBN: 123-1-23123-4567
+PublicationDate: 0002-02-02
+Borrowable: true
+NoOfCopies: 1
+Category: EEE
+AmmountB: 0
+AmoountA: 1
+AmmountL: 0
+------------------
+Title: fw
+AuthorName: 12
+ISBN: 123-4-56789-1234
+PublicationDate: 0002-02-02
+Borrowable: false
+NoOfCopies: 1
+Category: 12
+AmmountB: 0
+AmoountA: 1
+AmmountL: 0
+------------------
+Title: qw
+AuthorName: 2
+ISBN: 123-1-23123-1231
+PublicationDate: 0002-02-02
+Borrowable: true
+NoOfCopies: 1
+Category: 1
+AmmountB: 0
+AmoountA: 1
+AmmountL: 0
+------------------
+Title: qw
+AuthorName: qw
+ISBN: 123-4-55678-9878
+PublicationDate: 1988-05-20
+Borrowable: true
+NoOfCopies: 1
+Category: qw
+AmmountB: 0
+AmoountA: 1
+AmmountL: 0
+------------------
+Title: re
+AuthorName: re
+ISBN: 123-1-23122-1323
+PublicationDate: 0002-02-02
+Borrowable: true
+NoOfCopies: 1
+Category: re
+AmmountB: 0
+AmoountA: 1
+AmmountL: 0
+------------------
+Title: w
+AuthorName: w
+ISBN: 123-1-23123-1236
+PublicationDate: 0002-02-02
+Borrowable: true
+NoOfCopies: 3
+Category: w
+AmmountB: -7
+AmoountA: 9
+AmmountL: 1
+------------------
+Title: w
+AuthorName: w
+ISBN: 123-1-23123-4543
+PublicationDate: 0002-02-02
+Borrowable: true
+NoOfCopies: 1
+Category: w
+AmmountB: 0
+AmoountA: 1
+AmmountL: 0
+------------------
+Title: ww
+AuthorName: ww
+ISBN: 121-2-12121-2121
+PublicationDate: 0022-02-02
+Borrowable: true
+NoOfCopies: 4
+Category: w
+AmmountB: 0
+AmoountA: 4
+AmmountL: 0

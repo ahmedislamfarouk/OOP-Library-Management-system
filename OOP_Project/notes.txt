@@ -1,0 +1,16 @@
+1-change the login and register stuff to search into an array list instead of searching into the file 
+2-disccus with mahmoud to use an array instead of an arraylist
+3-gui brocode
+4-time for the book part and methodes
+5-important make an array when u first open the program reading it from the file on how many studens staff in the files
+6-take a look on whats going on with the name is already taken shit looks like its going to be asked first to not search in a big file if the user is already taken
+7-handle input exeptions
+8-remove spaces palagirism
+9-ask chatgpt about the bounds of stuff that u want
+10-now u have to do one thing add above the student staff thing a massage telling them to pick it and now search and sorting technequies 
+login in register 
+put everythingbetweenea  try and catch to catch errrors and such
+if 3 books are lost delete the user 
+return a book increase the book amount but how will u do the thing where u see how many are lost and such
+dont let anyone register staff
+gettersetter for all static non private fields
